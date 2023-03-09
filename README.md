@@ -35,7 +35,7 @@
 
 **Marvel website**
 
-<img src="./assets/Capture%20d’écran%202023-03-09%20à%2016.58.54.png" width=100 alt="marvel screenshot"/>
+<img src="./assets/Capture d’écran 2023-03-09 à 16.58.54.png" width=100 alt="marvel screenshot"/>
  <img src="./assets/IMG_C0828B72BFF1-1.jpeg" alt="marvel screenshot2" width=50>
 
 **Vinted partial clone**
