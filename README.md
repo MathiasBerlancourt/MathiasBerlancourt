@@ -26,18 +26,16 @@
 
 ## My projects
 
-**Skaners mobile app**
+### Skaners mobile app 
 
-<img  src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.12.45.png" width=50 alt="skaners screenshot2"/>
-<img  src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2014.07.42.png" width=50 alt="skaners screenshot1"/>
-<img  src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.24.22.png" width=50 alt="skaners screenshot3"/>
+<img  align=left src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.12.45.png" width=120 alt="skaners screenshot2"/><img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2014.07.42.png" width=120 alt="skaners screenshot1"/>.   <img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.24.22.png" width=120 alt="skaners screenshot3"/>
 
-**Marvel website**
+### Marvel website
 
-<img src="./assets/Capture d’écran 2023-03-09 à 16.58.54.png" width=100 alt="marvel screenshot"/>
- <img src="./assets/IMG_C0828B72BFF1-1.jpeg" alt="marvel screenshot2" width=50>
+<img align=left src="./assets/Capture d’écran 2023-03-09 à 16.58.54.png" height=230 alt="marvel screenshot"/>
+ <img align=center src="./assets/IMG_C0828B72BFF1-1.jpeg" alt="marvel screenshot2" height=230>
 
-**Vinted partial clone**
+<!---Vinted partial clone**
 
-**Airbnb partial mobile app clone**
+Airbnb partial mobile app clone--->
 
