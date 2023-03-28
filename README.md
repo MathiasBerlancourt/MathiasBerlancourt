@@ -35,9 +35,7 @@
 
 ### Amazon clone [🔗](https://github.com/MathiasBerlancourt/amazon-clone)
 
-<img align=left src="./assets/screenshotAmazonClone.png" alt="amazonclone" height=230>
-
-<img align=center src="./assets/screenshotAmazonCloneresponsive.png" alt="amazoncloneResponsive" height=230>
+<img align=left src="./assets/screenshotAmazonClone.png" alt="amazonclone" height=230> <img align=center src="./assets/screenshotAmazonCloneresponsive.jpg" alt="amazoncloneResponsive" height=230>
 
 ### Basic react Calculator [🔗]( https://github.com/MathiasBerlancourt/calculator)
 
