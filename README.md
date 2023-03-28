@@ -29,7 +29,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### My Resume ==> [🔗](./assets/resume.md)
+### My Resume [🔗](./assets/resume.md)
 
 ## My projects
 
@@ -37,16 +37,17 @@
 
 <img align=center src="./assets/screenshotAmazonClone.png" alt="amazonclone" height=230>
 
-### Basic react Calculator 
+### Basic react Calculator [🔗]( https://github.com/MathiasBerlancourt/calculator)
 
 <img align=center src="./assets/screenshotcalc.png" alt="amazonclone" height=230>
 
-### Skaners mobile app 
+### Skaners mobile app [🔗](https://github.com/MathiasBerlancourt/Skaners-front) 
 
 <img  align=left src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.12.45.png" width=120 alt="skaners screenshot2"/><img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2014.07.42.png" width=120 alt="skaners screenshot1"/>.   <img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.24.22.png" width=120 alt="skaners screenshot3"/>
 
 
-### Marvel website
+### Marvel website [🔗](https://github.com/MathiasBerlancourt/marvel-frontend)
+
 
 <img align=left src="./assets/Capture d’écran 2023-03-09 à 16.58.54.png" height=230 alt="marvel screenshot"/>
  <img align=center src="./assets/IMG_C0828B72BFF1-1.jpeg" alt="marvel screenshot2" height=230>
