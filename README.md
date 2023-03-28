@@ -33,7 +33,7 @@
 
 ## My projects
 
-### Amazon clone
+[### Amazon clone ](https://github.com/MathiasBerlancourt/amazon-clone)
 
 <img align=center src="./assets/screenshotAmazonClone.png" alt="amazonclone" height=230>
 
