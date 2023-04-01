@@ -6,7 +6,7 @@
 
 > <img align =right src="./assets/imageNotFound.png" alt= “” width="120" height="150">My name is Mathias, I'm an apprentice developer, I know you're an apprentice developer all your life, but let's say I'm a novice!
 > After a few years as a project manager on HR SaaS applications I decided to go to the dark side of tech.
-> You will find on this repo the more or less successful projects by which I got my skills.
+> You will find on this gitHub the more or less successful projects by which I got my skills.
 
 ## Currently working with:
 
