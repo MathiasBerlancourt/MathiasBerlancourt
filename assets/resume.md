@@ -9,9 +9,15 @@ Paris
 
 ## 💼 Work Experience
 
+### <> Front-end developer Skaners/Le reacteur, Paris
+march 2023
+
+Development of a mvp for the startup @Skaners :
+A mobile application in react native for the frontend and node js, MongoDB & forest admin for the backend.
+
 ### 🚀 Post Go-Live project manager-PeopleDoc-Groupe UKG (PC)
 
-December 2018 - December 2020
+December 2018 - December 2022
 
 - Customer support on the Post Go-live project cycle (needs, functional specifications, configuration, acceptance, production launch)
 - Working with several interlocutors: delivery & run integration team, customer business developer partner team, UKG partners, customer service providers, printers...
