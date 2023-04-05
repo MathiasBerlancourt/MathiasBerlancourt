@@ -33,7 +33,9 @@
 
 ## My projects
 
-### Amazon clone [🔗](https://github.com/MathiasBerlancourt/amazon-clone)
+### Streaming App (work in progress ⚙️) [🔗](https://github.com/MathiasBerlancourt/streaming-app) [🌐](https://unrivaled-kitsune-6c2e79.netlify.app/) 
+<img align=left src="./assets/matflex1.png" alt="amazonclone" height=230> <img align=center src="./assets/matflex2.jpg" alt="amazoncloneResponsive" height=230>
+### Amazon clone (work in progress ⚙️) [🔗](https://github.com/MathiasBerlancourt/amazon-clone) [🌐](https://gleaming-gumdrop-0339b4.netlify.app/)
 
 <img align=left src="./assets/screenshotAmazonClone.png" alt="amazonclone" height=230> <img align=center src="./assets/screenshotAmazonCloneresponsive.jpg" alt="amazoncloneResponsive" height=230>
 
