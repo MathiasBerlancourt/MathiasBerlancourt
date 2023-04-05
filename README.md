@@ -36,7 +36,7 @@
 ### Streaming App (work in progress ⚙️)
 [🔗](https://github.com/MathiasBerlancourt/streaming-app)     [🌐](https://unrivaled-kitsune-6c2e79.netlify.app/) 
 
-<img align=left src="./assets/matflex1.png" alt="matflexScreen1" height=200> <img align=center src="./assets/matflex2.png" alt="matflexScreen2" height=200>
+<img align=left src="./assets/matflex1.png" alt="matflexScreen1" height=200> <img align=center src="./assets/matflexResponsive.png" alt="matflexScreen2" height=200>
 
 ### Amazon clone (work in progress ⚙️) 
 [🔗](https://github.com/MathiasBerlancourt/amazon-clone)     [🌐](https://gleaming-gumdrop-0339b4.netlify.app/)
