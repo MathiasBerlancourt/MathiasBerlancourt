@@ -33,22 +33,31 @@
 
 ## My projects
 
-### Streaming App (work in progress ⚙️) [🔗](https://github.com/MathiasBerlancourt/streaming-app) [🌐](https://unrivaled-kitsune-6c2e79.netlify.app/) 
-<img align=left src="./assets/matflex1.png" alt="amazonclone" height=230> <img align=center src="./assets/matflex2.jpg" alt="amazoncloneResponsive" height=230>
-### Amazon clone (work in progress ⚙️) [🔗](https://github.com/MathiasBerlancourt/amazon-clone) [🌐](https://gleaming-gumdrop-0339b4.netlify.app/)
+### Streaming App (work in progress ⚙️)
+[🔗](https://github.com/MathiasBerlancourt/streaming-app)     [🌐](https://unrivaled-kitsune-6c2e79.netlify.app/) 
+
+<img align=left src="./assets/matflex1.png" alt="matflexScreen1" height=230> <img align=center src="./assets/matflex2.png" alt="matflexScreen2" height=230>
+
+### Amazon clone (work in progress ⚙️) 
+[🔗](https://github.com/MathiasBerlancourt/amazon-clone)     [🌐](https://gleaming-gumdrop-0339b4.netlify.app/)
 
 <img align=left src="./assets/screenshotAmazonClone.png" alt="amazonclone" height=230> <img align=center src="./assets/screenshotAmazonCloneresponsive.jpg" alt="amazoncloneResponsive" height=230>
 
-### Basic react Calculator [🔗]( https://github.com/MathiasBerlancourt/calculator)
+### Basic react Calculator 
+[🔗]( https://github.com/MathiasBerlancourt/calculator)
 
 <img align=center src="./assets/screenshotcalc.png" alt="amazonclone" height=230>
 
-### Skaners mobile app [🔗](https://github.com/MathiasBerlancourt/Skaners-front) 
+### Skaners mobile app 
+[🔗](https://github.com/MathiasBerlancourt/Skaners-front) 
 
 <img  align=left src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.12.45.png" width=120 alt="skaners screenshot2"/><img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2014.07.42.png" width=120 alt="skaners screenshot1"/>.   <img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.24.22.png" width=120 alt="skaners screenshot3"/>
 
 
-### Marvel website [🔗](https://github.com/MathiasBerlancourt/marvel-frontend)
+### Marvel website 
+[🔗](https://github.com/MathiasBerlancourt/marvel-frontend)    [🌐](https://silver-zabaione-ec168c.netlify.app/)
+
+
 
 
 <img align=left src="./assets/Capture d’écran 2023-03-09 à 16.58.54.png" height=230 alt="marvel screenshot"/>
