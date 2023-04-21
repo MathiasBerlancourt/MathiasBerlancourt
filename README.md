@@ -51,6 +51,8 @@
 ### Skaners mobile app 
 [🔗](https://github.com/MathiasBerlancourt/Skaners-front) 
 
+More about SKANERS : [www.skaners.com](https://skaners.com/)
+
 <img  align=left src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.12.45.png" width=120 alt="skaners screenshot2"/><img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2014.07.42.png" width=120 alt="skaners screenshot1"/>.   <img  align=center src="./assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-09%20at%2012.24.22.png" width=120 alt="skaners screenshot3"/>
 
 
