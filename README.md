@@ -33,7 +33,7 @@
 
 ## My projects
 
-### Streaming App (work in progress ⚙️)
+### Streaming App 
 [🔗](https://github.com/MathiasBerlancourt/streaming-app)     [🌐](https://unrivaled-kitsune-6c2e79.netlify.app/) 
 
 <img align=left src="./assets/matflex1.png" alt="matflexScreen1" height=230> <img align=center src="./assets/matflexResponsive.png" alt="matflexScreen2" height=230>   <img align=center src="./assets/matflexResponsiveSC.png" alt="matflexScreen3" height=230>
