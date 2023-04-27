@@ -1,6 +1,5 @@
 # Hello world ! ⚛️
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=MathiasBerlancourt.About-me&left_color=black&right_color=navy)
 
 ## Welcome to my Github!
 
