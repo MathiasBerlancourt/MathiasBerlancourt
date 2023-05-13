@@ -35,7 +35,7 @@
 ## My projects
 
 ### Todo List
-[🔗]([https://github.com/MathiasBerlancourt/todolist]) 
+[🔗](https://github.com/MathiasBerlancourt/todolist) 
 
 <img align=left src="./assets/todo2desktop.png" alt="todoScreen1" height=230> <img align=center src="./assets/todo1mobile.png" alt="todoScreen2" height=230>   
 
