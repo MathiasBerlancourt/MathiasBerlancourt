@@ -2,8 +2,7 @@
 
 ## Welcome to my Github!
 
-<img align =right src="./assets/imageNotFound.png" alt= “” width="120" height="150">My name is Mathias, I'm an apprentice developer & DevOps engineer, I know you're an apprentice all your life, but let's say I'm a novice!
-
+> <img align =right src="./assets/imageNotFound.png" alt= “” width="120" height="150">My name is Mathias, I'm an apprentice developer & DevOps engineer, I know you're an apprentice all your life, but let's say I'm a novice!
 > After a few years as a project manager on HR SaaS applications I decided to go to the dark side of tech.
 > You will find on this gitHub the more or less successful projects by which I got my skills.
 
@@ -76,7 +75,3 @@ More about SKANERS : [www.skaners.com](https://skaners.com/)
 
 <img align=left src="./assets/Capture d’écran 2023-03-09 à 16.58.54.png" height=230 alt="marvel screenshot"/>
  <img align=center src="./assets/IMG_C0828B72BFF1-1.jpeg" alt="marvel screenshot2" height=230>
-
-<!---Vinted partial clone**
-
-Airbnb partial mobile app clone--->
