@@ -2,10 +2,11 @@
 
 ## Welcome to my Github!
 
-> <img align=right src="./assets/imageNotFound.jpeg" alt= “profile” width="120" height="150">
+> <img align=right src="./assets/imageNotFound.jpeg" padding="4" alt= “profile” width="100" >
 > My name is Mathias, I'm an apprentice developer & DevOps engineer, I know you're an apprentice all your life, but let's say I'm a novice!
 > After a few years as a project manager on HR SaaS applications I decided to go to the dark side of tech.
 > You will find on this gitHub the more or less successful projects by which I got my skills.
+> </br>
 
 ![](https://github-readme-stats.vercel.app/api?username=MathiasBerlancourt&show_icons=true)
 
