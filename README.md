@@ -32,6 +32,10 @@
 
 ## My projects
 
+### Chat-gpt react-flask (Work In Progress)
+[🔗](https://github.com/MathiasBerlancourt/chat-gpt-react-py)
+
+
 ### Theme Park - devOps project (IAC + Azure cloud + CI-CD)
 
 [🔗](https://github.com/MathiasBerlancourt/theme-park)
